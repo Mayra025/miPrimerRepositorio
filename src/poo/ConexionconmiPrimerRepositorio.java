@@ -17,6 +17,8 @@ public class ConexionconmiPrimerRepositorio {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Wasaaa xdd");
+        System.out.println("nnmes weyy");
+
     }
     
 }
